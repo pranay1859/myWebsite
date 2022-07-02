@@ -1,2 +1,4 @@
 
 myWebsite.code-workspace
+*.bak
+*.csv
